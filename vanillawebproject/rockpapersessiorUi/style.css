@@ -1,0 +1,38 @@
+/* =====
+
+======== */
+body{
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+       
+}
+img{
+    width: 100%;
+    display: block;
+    height: 200px;
+    object-fit: scale-down;
+}
+/*  
+.container{
+    margin: 0 auto;
+    width: 960px;
+}*/
+/* =====
+style player option
+======== */
+header{
+    text-align: center;
+}
+.container-flex{
+    width: 70%;
+    margin:0 auto 1em auto;
+    display: flex;
+    justify-content: space-between; 
+}
+.point{
+    align-self: center;
+}
+img:hover,img:focus{
+    background-color: lightpink;  
+}
+
