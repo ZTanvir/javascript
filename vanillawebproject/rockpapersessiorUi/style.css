@@ -12,11 +12,11 @@ img{
     height: 200px;
     object-fit: scale-down;
 }
-/*  
+
 .container{
     margin: 0 auto;
     width: 960px;
-}*/
+}
 /* =====
 style player option
 ======== */
@@ -27,7 +27,7 @@ header{
     width: 70%;
     margin:0 auto 1em auto;
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-around; 
 }
 .point{
     align-self: center;
